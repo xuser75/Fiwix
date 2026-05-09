@@ -1,7 +1,7 @@
 /*
  * fiwix/net/loopback.c
  *
- * Copyright 2025, Jordi Sanfeliu. All rights reserved.
+ * Copyright 2026, Benjamin Davis. All rights reserved.
  * Distributed under the terms of the Fiwix License.
  */
 
